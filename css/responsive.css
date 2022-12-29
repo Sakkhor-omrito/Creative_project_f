@@ -211,6 +211,9 @@
         width: 88%;
         font-size: 17px;
     }
+	 .banner_right {
+        margin-left: 12px;
+    }
     #iso_section {
         margin-top: 60px;
         padding-bottom: 40px;
