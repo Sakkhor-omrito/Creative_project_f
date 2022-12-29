@@ -348,7 +348,7 @@ transition: .5s;
     color: var(--secondary-color);
 }
 .award_content h5{
-    font-size:24px;
+    font-size:23px;
     width: 74%;
     padding:10px 0;
     color: var(--primary-color);
